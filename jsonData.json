@@ -1,0 +1,27 @@
+{
+    "Catalog":{
+    "Products":[
+    {
+        "id": 1,
+        "name": "Porsche 911 GT3 RS",
+        "description": "Athletes know: top performance requires more than perfect conditions and luck. Relentless training to become stronger and faster. Questioning everything, especially yourself. Learning from every mistake. Because the biggest challenge is to remain unbeatable. With this attitude, Porsche keeps pushing the boundaries of what is possible. Experience the new 911 GT3 RS in top form - with increased race track performance.",
+        "price": "13715492",
+        "imageUrl": "https://www.motortrend.com/uploads/2022/10/2023-Porsche-911-GT3-RS-in-motion-3.jpg?w=768&width=768&q=75&format=webp"
+    },
+    {
+        "id": 2,
+        "name": "Lamborghini Huracán",
+        "description": "Sculptured and sensual, the Huracán’s design is based on the spiky hexagonal forms of the carbon atom, while the seamless roof profile is an unmistakable mark of the Lamborghini DNA. The Huracán is unique even in the dark, thanks to the alluringly “technological” light of its full-LED lighting system. Choose your favourite Lamborghini Huracán and discover its technical specifications.",
+        "price": "22000000",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/motoristprod/editors%2Fimages%2F1712824864850-lamborghini-pays-tribute-to-its-naturally-aspirated-v10-engine-with-the-limited-edition-huracan-stj-featured.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "McLaren P1",
+        "description": "The best-looking cars are the ones with real substance as well as style. The P1™ is a stunning piece of automotive design, but you won't find any needless ornaments or frivolous styling features on it. Every surface has been designed to work, every part given the same aerodynamic consideration as if it was part of an aircraft or a Formula 1™ car.",
+        "price": "113680000",
+        "imageUrl": "https://www.motortrend.com/uploads/sites/5/2018/07/McLaren-P1-5th-anniversary-front-three-quarters.jpg"
+    }
+]
+    }
+}
