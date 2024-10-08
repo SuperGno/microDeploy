@@ -11,7 +11,7 @@
         <name>Lamborghini Huracán</name>
         <description>Sculptured and sensual, the Huracán’s design is based on the spiky hexagonal forms of the carbon atom, while the seamless roof profile is an unmistakable mark of the Lamborghini DNA. The Huracán is unique even in the dark, thanks to the alluringly “technological” light of its full-LED lighting system. Choose your favourite Lamborghini Huracán and discover its technical specifications.</description>
         <price>22000000</price>
-        <imageUrl>https://s3-ap-southeast-1.amazonaws.com/motoristprod/editors%2Fimages%2F1712824864850-lamborghini-pays-tribute-to-its-naturally-aspirated-v10-engine-with-the-limited-edition-huracan-stj-featured.jpeg</imageUrl>
+        <imageUrl>https://s3-ap-southeast-1.amazonaws.com/motoristprod/editors/images/1712824864850-lamborghini-pays-tribute-to-its-naturally-aspirated-v10-engine-with-the-limited-edition-huracan-stj-featured.jpeg</imageUrl>
     </product>
     <product>
         <id>3</id>
@@ -21,3 +21,4 @@
         <imageUrl>https://www.motortrend.com/uploads/sites/5/2018/07/McLaren-P1-5th-anniversary-front-three-quarters.jpg</imageUrl>
     </product>
 </products>
+
