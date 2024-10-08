@@ -1,9 +1,8 @@
-
 <products>
     <product>
         <id>1</id>
         <name>Porsche 911 GT3 RS</name>
-        <description></description>
+        <description>The Porsche 911 GT3 RS is a track-focused variant of the iconic 911, combining high performance with precision engineering.</description>
         <price>13715492</price>
         <imageUrl>https://www.motortrend.com/uploads/2022/10/2023-Porsche-911-GT3-RS-in-motion-3.jpg?w=768&width=768&q=75&format=webp</imageUrl>
     </product>
@@ -14,10 +13,11 @@
         <price>22000000</price>
         <imageUrl>https://s3-ap-southeast-1.amazonaws.com/motoristprod/editors%2Fimages%2F1712824864850-lamborghini-pays-tribute-to-its-naturally-aspirated-v10-engine-with-the-limited-edition-huracan-stj-featured.jpeg</imageUrl>
     </product>
-     <product>
+    <product>
         <id>3</id>
-        <name>"McLaren P1</name>
+        <name>McLaren P1</name>
         <description>The best-looking cars are the ones with real substance as well as style. The P1™ is a stunning piece of automotive design, but you won't find any needless ornaments or frivolous styling features on it. Every surface has been designed to work, every part given the same aerodynamic consideration as if it was part of an aircraft or a Formula 1™ car.</description>
         <price>113680000</price>
         <imageUrl>https://www.motortrend.com/uploads/sites/5/2018/07/McLaren-P1-5th-anniversary-front-three-quarters.jpg</imageUrl>
     </product>
+</products>
